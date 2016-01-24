@@ -1,0 +1,1 @@
+To generate the dist folder execute <strong>gulp watch</strong>
